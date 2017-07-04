@@ -1,5 +1,5 @@
 <?php
-/** Adminer - Compact database management
+/** Adminer - Compact database managementtestetest
 * @link https://www.adminer.org/
 * @author Jakub Vrana, http://www.vrana.cz/
 * @copyright 2007 Jakub Vrana
